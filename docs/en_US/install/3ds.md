@@ -7,7 +7,9 @@
 
 <div class="tip red">
 	<strong>CAUTION:</strong>
-	If you try and boot up the 3DS Badge Arcade while on Pretendo server, your badges may be wiped! If you have badges you do not want to be wiped, please do not load Badge Arcade on Pretendo servers until further notice.
+	If you try and boot up the 3DS Badge Arcade while on Pretendo server, your badges may be wiped! If you have badges you do not want to be wiped, please do not load Badge Arcade on Pretendo servers until further notice or backup your badges by backing up the Nintendo 3DS[ID0][ID1]\extdata\00000000\000014d1 folder.
+
+*[ID0] and [ID1] are placeholders. They will be folders with a long string of letter and number such as ba0das94d9o2pa87shyd65ai34587s61. (note this will not be your actual ID 0/1.)*
 </div>
 
 <div class="tip">
