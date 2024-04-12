@@ -5,6 +5,11 @@
 	SYSTEM TRANSFERS ARE NOT CURRENTLY SUPPORTED BY OUR SERVERS. ATTEMPTING TO PERFORM A SYSTEM TRANSFER MAY PREVENT YOU FROM BEING ABLE TO GO ONLINE IN THE FUTURE. SUPPORT FOR SYSTEM TRANSFERS IS IN DEVELOPMENT.
 </div>
 
+<div class="tip red">
+	<strong>CAUTION:</strong>
+	If you try and boot up the 3DS Badge Arcade while on Pretendo server, your badges may be wiped! If you have badges you do not want to be wiped, please do not load Badge Arcade on Pretendo servers until further notice.
+</div>
+
 <div class="tip">
 	ℹ️ This guide assumes that you have a <b>Homebrewed System running the latest version of Luma3DS (13+)</b>, if you don't please follow this <a href="https://3ds.hacks.guide/" target="_blank">guide</a> on how to homebrew your system first.
 </div>
